@@ -1,0 +1,6 @@
+
+Mike Kaufman is a Principal Software Engineer at Microsoft, currently working
+on the Chakra JavaScript engine and working with the Node.js Diagnostics Working
+Group. Mike has a broad software industry perspective informed from over 20
+years of experience on highly popular software systems, including  developer
+tools, database systems and hyper-scale public clouds.
